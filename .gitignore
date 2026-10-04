@@ -12,3 +12,6 @@
 !work/map/
 !work/map/*.tsv
 !work/map/*.txt
+!work/text/split/
+!work/text/split/*.tsv
+__pycache__/
