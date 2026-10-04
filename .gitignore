@@ -1,6 +1,9 @@
 # 허용 목록: 소스·문서·번역 텍스트만(ROM·스테이트·디스크 추출·빌드·my files 금지)
 *
 !.gitignore
+!README.md
+!work/trans/
+!work/trans/*.tsv
 !tools/
 !tools/*.py
 !tools/*.ps1
