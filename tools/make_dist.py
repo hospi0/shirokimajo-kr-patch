@@ -7,9 +7,9 @@ r"""白き魔女 배포 묶음 — dist/ShirokiMajo_KR_<VER>/ : 바뀐 트랙마
 import hashlib, os, shutil, subprocess, sys, zipfile
 HERE = os.path.dirname(os.path.abspath(__file__)); ROOT = os.path.dirname(HERE)
 
-VER = 'v0.8'
+VER = 'v0.9'
 XDELTA = r'C:\claude\utils\xdelta.exe'
-ROMS = r'C:\claude\roms\ss'
+ROMS = r'D:\hospi\My Documents\한글패치\SS\ss'
 OUT = os.path.join(ROOT, 'work', 'out')
 NAME = 'ShirokiMajo_KR_' + VER
 TITLE = '하얀 마녀 ~또 하나의 영웅전설~ (Shiroki Majo, 세가 새턴 일본판) 한글 패치 ' + VER

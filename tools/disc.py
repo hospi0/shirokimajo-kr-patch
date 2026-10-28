@@ -9,7 +9,7 @@ sys.path.insert(0, r'C:\claude\project\darksavior-kr-patch\tools')
 sys.path.append(r'C:\claude\project\anearth-kr-patch\tools')
 import iso
 
-R = r'C:\claude\roms\ss\Shiroki Majo - Mou Hitotsu no Eiyuu Densetsu (Japan) (Disc %d)\Shiroki Majo - Mou Hitotsu no Eiyuu Densetsu (Japan) (Disc %d) (Track 1).bin'
+R = r'D:\hospi\My Documents\한글패치\SS\ss\Shiroki Majo - Mou Hitotsu no Eiyuu Densetsu (Japan) (Disc %d)\Shiroki Majo - Mou Hitotsu no Eiyuu Densetsu (Japan) (Disc %d) (Track 1).bin'
 TRACK = {1: R % (1, 1), 2: R % (2, 2)}
 DISC = os.path.join(ROOT, 'work', 'disc')
 _t = {}
