@@ -1,4 +1,4 @@
-# 하얀 마녀 ~또 하나의 영웅전설~ (새턴 JP 2장) 한글화
+# 하얀 마녀 \~또 하나의 영웅전설\~ (새턴 JP 2장) 한글화
 
 ## 내려받기
 - 최신 **v0.8** — [릴리즈](https://github.com/hospi0/shirokimajo-kr-patch/releases/latest)에서 `ShirokiMajo_KR_v0.8.zip`
